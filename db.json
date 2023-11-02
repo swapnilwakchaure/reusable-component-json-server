@@ -1,0 +1,160 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "Imagicaa",
+            "location": "Lonavala",
+            "contact": "022-62552929",
+            "address": "Q78H+V27, Gorthan Rd, Maharashtra 410203",
+            "google_map": "https://www.google.com/maps/dir//lonavala+imagica/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3be8014f6ac9b871:0x578013a6e753cdd2?sa=X&ved=2ahUKEwiJpoeX2qKCAxWUcGwGHQ_0BZEQ9Rd6BAhREAA&sqi=2",
+            "timing": "10:30am - 7:30pm",
+            "rating": "4.3",
+            "age": "No Age Limit",
+            "by_road": "via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Satara Hwy. Fastest route now, avoids road closure on Eastern Express Hwy",
+            "by_train": "Khopoli is connected to Mumbai via direct local trains, and to the rest of the rail network via Karjat station.",
+            "by_plane": "The nearest airports are Chhatrapati Shivaji Airport in Mumbai, and Airport in Pune.",
+            "distance": [
+                84,
+                68
+            ],
+            "images": [
+                "https://hblimg.mmtcdn.com/content/hubble/img/lonavala/mmt/activities/m_imagica_lonavala_l_358_477.jpg",
+                "https://hblimg.mmtcdn.com/content/hubble/img/lonavala/mmt/activities/m_imagica_lonavala_l_358_477.jpg",
+                "https://static.wixstatic.com/media/825e3d_15d7320512624c87904125560ebe8dff~mv2.jpg/v1/fill/w_560,h_322,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Imagica.jpg",
+                "https://imgmedia.lbb.in/media/2020/03/5e67d2e7101f7001397bb872_1583862503222.jpg",
+                "https://beyonddevbucket.s3.ap-south-1.amazonaws.com/dynamic/beimg0k5dof9ue.png"
+            ],
+            "description": "Imagicaa is an integrated holiday destination spread over 110 acres. It contains a water park, the hotel Novotel Imagicaa with 287 Rooms and a large banqueting facility, and India's largest snow park with real edible snow. The parks have an estimated daily capacity of 15,000 visitors."
+        },
+        {
+            "id": 2,
+            "name": "Wet N Joy Water Park",
+            "location": "Shirdi",
+            "contact": "096572 34444",
+            "address": "Old Mumbai Pune highway, Near Karla, Kamshet, Maval, Pune, Maharashtra, 410405, India",
+            "google_map": "https://www.google.com/maps/dir//wet+n+joy+waterpark+information/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2abb216646867:0x13c74f32bdfc2c55?sa=X&ved=2ahUKEwjX1ueL5aKCAxVJbWwGHQLjCjcQ9Rd6BAhTEAA",
+            "timing": "9am - 6pm ",
+            "rating": "4.3",
+            "age": "No Age Limit",
+            "by_road": "via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Satara Hwy. Fastest route now, avoids road closure on Eastern Express Hwy",
+            "by_train": "Khopoli is connected to Mumbai via direct local trains, and to the rest of the rail network via Karjat station.",
+            "by_plane": "The nearest airports is Shirdi International Airport",
+            "distance": [
+                94,
+                52
+            ],
+            "images": [
+                "https://i.pinimg.com/736x/f8/3c/e1/f83ce1e81cc57ef7c09de30a6310e465.jpg",
+                "https://content.jdmagicbox.com/comp/jalgaon/u6/9999px257.x257.190426171905.x9u6/catalogue/wet-n-joy-water-park-shirdi-booking-office-jalgaon-jalgaon-water-parks-u66952k64w.jpg?clr=",
+                "https://s3.ap-south-1.amazonaws.com/townscript-production/gallery-images/1117878/c4caef4c-e270-4c69-9257-09cdf03e1ff7.jpg",
+                "https://www.tripnight.com/public/thumbs/monuments/7138/nUPVC9WdBMhm_468_738.jpg",
+                "https://5.imimg.com/data5/EX/VF/GLADMIN-57250842/family-ride-service-500x500.jpg"
+            ],
+            "description": "Wet n Joy Lonavala, located in the lush Western Ghats, is a popular destination for Mumbai and Pune residents, and for good reason! With its 25 international rides, including India’s largest wave pool at 60,000 square feet, there’s something for everyone at Wet n Joy."
+        },
+        {
+            "id": 3,
+            "name": "Imagicaa",
+            "location": "Lonavala",
+            "contact": "022-62552929",
+            "address": "Q78H+V27, Gorthan Rd, Maharashtra 410203",
+            "google_map": "https://www.google.com/maps/dir//lonavala+imagica/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3be8014f6ac9b871:0x578013a6e753cdd2?sa=X&ved=2ahUKEwiJpoeX2qKCAxWUcGwGHQ_0BZEQ9Rd6BAhREAA&sqi=2",
+            "timing": "10:30am - 7:30pm",
+            "rating": "4.3",
+            "age": "No Age Limit",
+            "by_road": "via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Satara Hwy. Fastest route now, avoids road closure on Eastern Express Hwy",
+            "by_train": "Khopoli is connected to Mumbai via direct local trains, and to the rest of the rail network via Karjat station.",
+            "by_plane": "The nearest airports are Chhatrapati Shivaji Airport in Mumbai, and Airport in Pune.",
+            "distance": [
+                84,
+                68
+            ],
+            "images": [
+                "https://hblimg.mmtcdn.com/content/hubble/img/lonavala/mmt/activities/m_imagica_lonavala_l_358_477.jpg",
+                "https://hblimg.mmtcdn.com/content/hubble/img/lonavala/mmt/activities/m_imagica_lonavala_l_358_477.jpg",
+                "https://static.wixstatic.com/media/825e3d_15d7320512624c87904125560ebe8dff~mv2.jpg/v1/fill/w_560,h_322,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Imagica.jpg",
+                "https://imgmedia.lbb.in/media/2020/03/5e67d2e7101f7001397bb872_1583862503222.jpg",
+                "https://beyonddevbucket.s3.ap-south-1.amazonaws.com/dynamic/beimg0k5dof9ue.png"
+            ],
+            "description": "Imagicaa is an integrated holiday destination spread over 110 acres. It contains a water park, the hotel Novotel Imagicaa with 287 Rooms and a large banqueting facility, and India's largest snow park with real edible snow. The parks have an estimated daily capacity of 15,000 visitors."
+        },
+        {
+            "id": 4,
+            "name": "Wet N Joy Water Park",
+            "location": "Shirdi",
+            "contact": "096572 34444",
+            "address": "Old Mumbai Pune highway, Near Karla, Kamshet, Maval, Pune, Maharashtra, 410405, India",
+            "google_map": "https://www.google.com/maps/dir//wet+n+joy+waterpark+information/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2abb216646867:0x13c74f32bdfc2c55?sa=X&ved=2ahUKEwjX1ueL5aKCAxVJbWwGHQLjCjcQ9Rd6BAhTEAA",
+            "timing": "9am - 6pm ",
+            "rating": "4.3",
+            "age": "No Age Limit",
+            "by_road": "via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Satara Hwy. Fastest route now, avoids road closure on Eastern Express Hwy",
+            "by_train": "Khopoli is connected to Mumbai via direct local trains, and to the rest of the rail network via Karjat station.",
+            "by_plane": "The nearest airports is Shirdi International Airport",
+            "distance": [
+                94,
+                52
+            ],
+            "images": [
+                "https://i.pinimg.com/736x/f8/3c/e1/f83ce1e81cc57ef7c09de30a6310e465.jpg",
+                "https://content.jdmagicbox.com/comp/jalgaon/u6/9999px257.x257.190426171905.x9u6/catalogue/wet-n-joy-water-park-shirdi-booking-office-jalgaon-jalgaon-water-parks-u66952k64w.jpg?clr=",
+                "https://s3.ap-south-1.amazonaws.com/townscript-production/gallery-images/1117878/c4caef4c-e270-4c69-9257-09cdf03e1ff7.jpg",
+                "https://www.tripnight.com/public/thumbs/monuments/7138/nUPVC9WdBMhm_468_738.jpg",
+                "https://5.imimg.com/data5/EX/VF/GLADMIN-57250842/family-ride-service-500x500.jpg"
+            ],
+            "description": "Wet n Joy Lonavala, located in the lush Western Ghats, is a popular destination for Mumbai and Pune residents, and for good reason! With its 25 international rides, including India’s largest wave pool at 60,000 square feet, there’s something for everyone at Wet n Joy."
+        },
+        {
+            "id": 5,
+            "name": "Imagicaa",
+            "location": "Lonavala",
+            "contact": "022-62552929",
+            "address": "Q78H+V27, Gorthan Rd, Maharashtra 410203",
+            "google_map": "https://www.google.com/maps/dir//lonavala+imagica/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3be8014f6ac9b871:0x578013a6e753cdd2?sa=X&ved=2ahUKEwiJpoeX2qKCAxWUcGwGHQ_0BZEQ9Rd6BAhREAA&sqi=2",
+            "timing": "10:30am - 7:30pm",
+            "rating": "4.3",
+            "age": "No Age Limit",
+            "by_road": "via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Satara Hwy. Fastest route now, avoids road closure on Eastern Express Hwy",
+            "by_train": "Khopoli is connected to Mumbai via direct local trains, and to the rest of the rail network via Karjat station.",
+            "by_plane": "The nearest airports are Chhatrapati Shivaji Airport in Mumbai, and Airport in Pune.",
+            "distance": [
+                84,
+                68
+            ],
+            "images": [
+                "https://hblimg.mmtcdn.com/content/hubble/img/lonavala/mmt/activities/m_imagica_lonavala_l_358_477.jpg",
+                "https://hblimg.mmtcdn.com/content/hubble/img/lonavala/mmt/activities/m_imagica_lonavala_l_358_477.jpg",
+                "https://static.wixstatic.com/media/825e3d_15d7320512624c87904125560ebe8dff~mv2.jpg/v1/fill/w_560,h_322,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Imagica.jpg",
+                "https://imgmedia.lbb.in/media/2020/03/5e67d2e7101f7001397bb872_1583862503222.jpg",
+                "https://beyonddevbucket.s3.ap-south-1.amazonaws.com/dynamic/beimg0k5dof9ue.png"
+            ],
+            "description": "Imagicaa is an integrated holiday destination spread over 110 acres. It contains a water park, the hotel Novotel Imagicaa with 287 Rooms and a large banqueting facility, and India's largest snow park with real edible snow. The parks have an estimated daily capacity of 15,000 visitors."
+        },
+        {
+            "id": 6,
+            "name": "Wet N Joy Water Park",
+            "location": "Shirdi",
+            "contact": "096572 34444",
+            "address": "Old Mumbai Pune highway, Near Karla, Kamshet, Maval, Pune, Maharashtra, 410405, India",
+            "google_map": "https://www.google.com/maps/dir//wet+n+joy+waterpark+information/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bc2abb216646867:0x13c74f32bdfc2c55?sa=X&ved=2ahUKEwjX1ueL5aKCAxVJbWwGHQLjCjcQ9Rd6BAhTEAA",
+            "timing": "9am - 6pm ",
+            "rating": "4.3",
+            "age": "No Age Limit",
+            "by_road": "via Bengaluru - Mumbai Hwy/Mumbai Hwy/Mumbai - Pandharpur Rd/Mumbai - Pune Hwy/Mumbai - Satara Hwy. Fastest route now, avoids road closure on Eastern Express Hwy",
+            "by_train": "Khopoli is connected to Mumbai via direct local trains, and to the rest of the rail network via Karjat station.",
+            "by_plane": "The nearest airports is Shirdi International Airport",
+            "distance": [
+                94,
+                52
+            ],
+            "images": [
+                "https://i.pinimg.com/736x/f8/3c/e1/f83ce1e81cc57ef7c09de30a6310e465.jpg",
+                "https://content.jdmagicbox.com/comp/jalgaon/u6/9999px257.x257.190426171905.x9u6/catalogue/wet-n-joy-water-park-shirdi-booking-office-jalgaon-jalgaon-water-parks-u66952k64w.jpg?clr=",
+                "https://s3.ap-south-1.amazonaws.com/townscript-production/gallery-images/1117878/c4caef4c-e270-4c69-9257-09cdf03e1ff7.jpg",
+                "https://www.tripnight.com/public/thumbs/monuments/7138/nUPVC9WdBMhm_468_738.jpg",
+                "https://5.imimg.com/data5/EX/VF/GLADMIN-57250842/family-ride-service-500x500.jpg"
+            ],
+            "description": "Wet n Joy Lonavala, located in the lush Western Ghats, is a popular destination for Mumbai and Pune residents, and for good reason! With its 25 international rides, including India’s largest wave pool at 60,000 square feet, there’s something for everyone at Wet n Joy."
+        }
+    ]
+}
